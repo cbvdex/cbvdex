@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Welcome to CBVDEX.
+Many projects are under renovation now. Gradually, each will go live again.
+
 <!--
 **cbvdex/cbvdex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
